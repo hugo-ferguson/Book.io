@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HouseDetails>
+  <House Id = "001">
+    <Name>Azidene House</Name>
+    <Address>68 Central Springs Road</Address>
+    <City>Daylesford</City>
+    <PostCode>3460</PostCode>
+    <WeekdayRate>150.00</WeekdayRate>
+    <WeekendRate>180.00</WeekendRate>
+    <PIN>1234</PIN>
+    <Information></Information>
+  </House>
+  <House Id = "002">
+    <Name>Hunt Street</Name>
+    <Address>28 Hunt Street</Address>
+    <City>Ballarat</City>
+    <PostCode>3350</PostCode>
+    <WeekdayRate>100.00</WeekdayRate>
+    <WeekendRate>120.00</WeekendRate>
+    <PIN>1234</PIN>
+    <Information></Information>
+  </House>
+</HouseDetails>

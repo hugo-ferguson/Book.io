@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StaffDetails>
+  <Staff>
+    <FirstName>Hugo</FirstName>
+    <Surname>Ferguson</Surname>
+    <Email>test@test.com</Email>
+    <Password>PDfRx4ZvCIJBD+ZmPI/tDQ==</Password>
+    <Mobile>0481 060 515</Mobile>
+    <Address>68 Central Springs Road</Address>
+    <City>Daylesford</City>
+    <PostCode>3460</PostCode>
+    <Wage>100000</Wage>
+    <Role>Management</Role>
+    <StaffImage>fernee_mii.jpg</StaffImage>
+    <Status>True</Status>
+  </Staff>
+</StaffDetails>
